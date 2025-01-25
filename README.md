@@ -121,7 +121,7 @@ plt.show()
 Predict stock prices using a trained model and plots both the real and predicted prices over time, comparing them to evaluate the model's performance. The predictions are first reshaped and scaled back to their original values before being plotted with the actual prices.
 
 ### Stock Price Prediction Plot
-![Prediction Plot](https://github.com/rhb140/Stock-Price-Prediction-LSTM/blob/main/StockPricePredictionImage4.jpg?raw=true)
+![Prediction Plot](https://github.com/rhb140/Stock-Price-Prediction-LSTM/blob/main/Tesla_Stock_Price_Prediction.jpg?raw=true)
 A plot of real vs predicted stock prices over the test period where blue is the real values based on past stock data and orange is the predicted values.
 
 ## Conclusion
